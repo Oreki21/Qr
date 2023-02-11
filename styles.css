@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(160, 191, 192);
+}
+
+div{
+    background-color: white;
+    border-radius: 8px;
+    height: 400px;
+    width: 250px;
+    margin: 125px auto;
+}
+.qr-code {
+    width: 230px;
+    height: 200px;
+    border-radius: 8px;
+    margin: 10px 10px auto 10px;
+}
+
+h4{ 
+    text-align: center;
+    font-family: sans-serif;
+    width: 85%;
+    margin: auto;
+    padding: 10px 10px 0 10px;
+    line-height: 1.5;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 0.80rem;
+    line-height: 1.5;
+    padding: 10px;
+}
